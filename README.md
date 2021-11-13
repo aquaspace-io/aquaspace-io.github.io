@@ -1,13 +1,13 @@
 # Landing Page
 ## Aqua Space
-- A planet where all Klaytn DeFi ecosystems are gathered
+- Meet all the DeFi in the world at Aqua Space.
 
 ### Landing Page
 - Introduce Aqua Space
   - https://aquaspace.io
 
 ### Launch App
-- Are you ready to start your success story on the Aqua Space planet?
+- The only DeFi service you need, get started now.
   - https://app.aquaspace.io
 
 ### DOCS
